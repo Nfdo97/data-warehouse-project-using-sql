@@ -1,8 +1,10 @@
 # SQL-Based Data Warehouse Project
 
-Welcome to the SQL Based Data Warehouse Project! 🚀 This project demonstrates a complete data pipeline, from ingestion to analytics, following industry best practices in data engineering.
+Welcome to the **SQL Based Data Warehouse Project**! 🚀 This project demonstrates a complete data pipeline, from ingestion to analytics, following industry best practices in data engineering.
 
-📌 **Project Overview** 
+---
+
+## 📌 **Project Overview** 
 
 This project focuses on building a modern data warehouse using SQL Server to consolidate sales data for analytical reporting and decision-making. The key components include:
 
@@ -13,8 +15,10 @@ This project focuses on building a modern data warehouse using SQL Server to con
 * **Data Modeling**: Designing optimized fact and dimension tables for analytical queries.
 * **Reporting & Analytics**: Generating SQL-based reports and dashboards to deliver actionable insights.
   
+---
 
-🏛️ **Data Architecture**
+
+## 🏛️ **Data Architecture**
 
 * **Bronze Layer**: Stores raw data ingested from source systems without modifications.
 
