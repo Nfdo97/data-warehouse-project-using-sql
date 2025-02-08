@@ -20,11 +20,11 @@ This project focuses on building a modern data warehouse using SQL Server to con
 
 ## 🏛️ **Data Architecture**
 
-* **Bronze Layer**: Stores raw data ingested from source systems without modifications.
+* **Bronze Layer** : Stores raw data ingested from source systems without modifications.
 
-* **Silver Layer**: Cleanses, standardizes, and prepares data for analytical use.
+* **Silver Layer** : Cleanses, standardizes, and prepares data for analytical use.
 
-* **Gold Layer**: Structures business-ready data using a star schema for efficient reporting and analytics.
+* **Gold Layer** : Structures business-ready data using a star schema for efficient reporting and analytics.
 
 
 
